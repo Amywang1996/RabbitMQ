@@ -1,0 +1,4 @@
+com\rabbitmq\helloworld\Provider.class
+com\rabbitmq\utils\RabbitMQUtils.class
+com\rabbitmq\helloworld\Customer$1.class
+com\rabbitmq\helloworld\Customer.class
